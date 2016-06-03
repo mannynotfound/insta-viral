@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mannynotfound/insta-viral/master/insta-viral.png" />
+</p>
+
 # insta viral
 
 Quick, ugly failed experiment where I tried to interact with someone on Twitter, 
